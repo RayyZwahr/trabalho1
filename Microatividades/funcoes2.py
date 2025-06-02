@@ -4,7 +4,7 @@ def loginUsuario(perfil):  #criando a função com o parametro usuário
     else: #se digitar qualquer outra coisa
         print ("bem-vindo, usuario!.")
     
-
+#testando as chamadas da função
 loginUsuario('Admin')
 loginUsuario('admin')
 loginUsuario('User')
